@@ -1,0 +1,54 @@
+Phishing:
+
+
+
+
+
+
+
+Playbook is a list of how to go through a certain detection, and what the analyst needs to look at in order to 
+investigate those incidents. 
+
+Compliance is the process of adhering to internal standards and external regulations and enables organizations to 
+avoid fines and security breaches.
+
+Security frameworks are guidelines used for building plans to help mitigate risks and threats to data and privacy.
+
+Security controls are safeguards designed to reduce specific security risks. They are used with security frameworks 
+to establish a strong security posture.
+
+Cybersecurity (or security): The practice of ensuring confidentiality, integrity, and availability of information by 
+protecting networks, devices, people, and data from unauthorized access or criminal exploitation
+
+Cloud security: The process of ensuring that assets stored in the cloud are properly configured and access to those 
+assets is limited to authorized users
+
+Internal threat: A current or former employee, external vendor, or trusted partner who poses a security risk
+
+Network security: The practice of keeping an organization's network infrastructure secure from unauthorized access
+
+Personally identifiable information (PII): Any information used to infer an individual’s identity
+
+Security posture: An organization’s ability to manage its defense of critical assets and data and react to change 
+
+Sensitive personally identifiable information (SPII): A specific type of PII that falls under stricter handling guidelines
+
+Technical skills: Skills that require knowledge of specific tools, procedures, and policies 
+
+Threat: Any circumstance or event that can negatively impact assets
+
+Threat actor: Any person or group who presents a security risk
+
+Transferable skills: Skills from other areas that can apply to different careers 
+
+
+
+Technical skills
+
+1.Programming languages
+2.Security information and event management (SIEM) tools: SIEM tools collect and analyze log data, or records of events such as unusual login behavior, and support analysts’ ability to monitor critical activities in an organization
+3.Intrusion detection systems (IDSs)
+
+
+Personally Identifiable Information(PII)
+Sensitive Personally Identifiable Information(SPII). eg. Bank info, medical records etc
