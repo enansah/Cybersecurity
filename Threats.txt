@@ -1,0 +1,104 @@
+A computer virus attaches itself to programs 
+or files to spread and disrupt operations, while
+ modern terminology broadly classifies harmful 
+ software as malware.
+
+
+The Brain Virus (1986)
+
+1.Created initially to protect medical software from 
+piracy, it unintentionally infected computers and 
+spread globally via floppy disks within months.
+2.The incident highlighted the need for strategic 
+security planning by significantly slowing business 
+operations and productivity.
+
+
+The Morris Worm (1988)
+
+1. Designed to measure the size of the internet, the worm 
+continuously re-infected machines until memory was exhausted, 
+crashing roughly 10% of connected systems.
+2.The disruption resulted in millions of dollars in damages and 
+led directly to the creation of Computer Emergency Response Teams 
+(CERTs) to manage security incidents.
+
+
+The LoveLetter Attack and Social Engineering
+
+The LoveLetter malware spread via email attachments to steal user 
+credentials, infecting 45 million computers and causing over $10 
+billion in damages.
+It stands as an early major example of social engineering, which manipulates
+ human error to access sensitive information and often takes the 
+ form of phishing emails today.
+
+
+he Equifax Data Breach
+
+In 2017, attackers breached credit agency Equifax, compromising the 
+personal and financial data of over 143 million people.
+The breach resulted from multiple known vulnerabilities that the company 
+failed to fix, culminating in more than $575 million in government settlements 
+and fines. 
+
+
+
+Phishing
+Phishing is the use of digital communications to trick people into revealing 
+sensitive data or deploying malicious software.
+
+Types
+
+1.Business Email Compromise (BEC): A threat actor sends an email message that 
+seems to be from a known source to make a seemingly legitimate request for information, 
+in order to obtain a financial advantage.
+
+2.Spear phishing: A malicious email attack that targets a specific user or group of users. 
+The email seems to originate from a trusted source.
+
+3.Whaling: A form of spear phishing. Threat actors target company executives to gain 
+access to sensitive data.
+
+4.Vishing: The exploitation of electronic voice communication to obtain sensitive information 
+or to impersonate a known source.
+
+5.Smishing: The use of text messages to trick users, in order to obtain sensitive information or 
+to impersonate a known source.
+
+
+Malware is software designed to harm devices or networks.
+
+Types
+
+1.Viruses: Malicious code written to interfere with computer operations and cause damage to data 
+and software. A virus needs to be initiated by a user (i.e., a threat actor), who transmits the 
+virus via a malicious attachment or file download.
+
+2.Worms: Malware that can duplicate and spread itself across systems on its own. In contrast to 
+a virus, a worm does not need to be downloaded by a user. Instead, it self-replicates and spreads 
+from an already infected computer to other devices on the same network.
+
+3.Ransomware: A malicious attack where threat actors encrypt an organization's data and demand 
+payment to restore access. 
+
+4.Spyware: Malware that’s used to gather and sell information without consent. Spyware can be used 
+to access devices. This allows threat actors to collect personal data, such as private emails, texts, 
+voice and image recordings, and locations.
+
+
+Social engineering is a manipulation technique that exploits human error to gain private information, 
+access, or valuables.
+
+Types
+
+1.Social media phishing: A threat actor collects detailed information about their target from social media 
+sites. Then, they initiate an attack.
+
+2.Watering hole attack: A threat actor attacks a website frequently visited by a specific group of users.
+
+3.USB baiting: A threat actor strategically leaves a malware USB stick for an employee to find and install, 
+to unknowingly infect a network. 
+
+4.Physical social engineering: A threat actor impersonates an employee, customer, or vendor to obtain 
+unauthorized access to a physical location.
