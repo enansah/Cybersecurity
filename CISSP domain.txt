@@ -1,0 +1,121 @@
+CISSP (Certified Information Systems Security Professional), which is a globally 
+recognized professional standard and certification in cybersecurity. Think of CISSP 
+as an official blueprint for the security world: it organizes the vast, complex 
+field of protecting digital information into eight clear categories, called security 
+domains.
+
+Domains
+
+1.Security and Risk Management
+Security and risk management centers on establishing security goals, 
+compliance (such as HIPAA regulations), business continuity, and risk mitigation.
+
+2.Asset Security
+Asset security focuses on safeguarding physical and digital assets, including the 
+proper storage, retention, and secure destruction of data and hardware.
+
+3.Security Architecture and Engineering 
+Security architecture and engineering optimizes data security through effective 
+tools and systems, such as configuring firewalls to filter traffic.
+
+4.Communication and Network Security
+Communication and network security involves managing and protecting physical networks 
+and wireless environments, including setting policies against unsecured hotspots.
+
+5.Identity and Access Management 
+Identity and Access Management focuses on controlling and managing physical and logical 
+assets by validating user identities and documenting access roles.
+
+6.Security Assessment
+Security Assessment and Testing involves conducting audits, control testing, and analyzing 
+data to monitor for risks, threats, and unauthorized access.
+
+7.Security Operations
+Security Operations centers on conducting investigations, monitoring alerts, and carrying 
+out preventative procedures against potential threats.
+
+8.Software Development Security
+Software Development Security applies secure coding practices and guidelines across the 
+development life cycle to build safe applications.
+
+
+
+Attack types
+
+Password attack
+A password attack is an attempt to access password-secured devices, systems, networks, or data.
+Password attacks fall under the communication and network security domain. 
+
+1.Brute force
+2.Rainbow table
+
+
+Social engineering attack
+Social engineering is a manipulation technique that exploits human error to gain private 
+information, access, or valuables.
+Social engineering attacks are related to the security and risk management domain.
+
+1. Phishing
+2. Vishing
+3. Business Email Compromise(BEC)
+4. Water hole attack
+etc
+
+
+Physical attack
+A physical attack is a security incident that affects not only digital but also physical 
+environments where the incident is deployed. 
+Physical attacks fall under the asset security domain. 
+
+1.Malicious USB cable
+2.Malicious flash drive
+3.Card cloning and skimming
+
+
+Adversarial artificial intelligence is a technique that manipulates 
+technology to conduct attacks more efficiently.
+Adversarial artificial intelligence falls under both the communication and network security 
+and the identity and access management domains.
+
+
+
+Supply-chain attack
+A supply-chain attack targets systems, applications, hardware, and/or software to locate a 
+vulnerability where malware can be deployed.
+Supply-chain attacks can fall under several domains, including but not limited to the security 
+and risk management, security architecture and engineering, and security operations domains.
+
+
+Cryptographic attack
+A cryptographic attack affects secure forms of communication between a sender and intended recipient. 
+Cryptographic attacks fall under the communication and network security domain. 
+
+1.Birthday
+2.Collision
+3.Downgrade
+
+
+
+
+Threat actor types
+
+1.Advanced persistent threats
+Advanced persistent threats (APTs) have significant expertise accessing an organization's network 
+without authorization.
+APTs tend to research their targets (e.g., large corporations or government entities)  in advance 
+and can remain undetected for an extended period of time. 
+
+2.Insider threats
+Insider threats abuse their authorized access to obtain data that may harm an organization.
+
+3.Hacktivists
+Hacktivists are threat actors that are driven by a political agenda. They abuse digital technology to 
+accomplish their goals like social change campaigns, fame, demonstration and propaganda.
+
+Hacker types
+1.Authorized hackers are also called ethical hackers. They follow a code of ethics and adhere to the law 
+to conduct organizational risk evaluations.
+2.Semi-authorized hackers are considered researchers. They search for vulnerabilities but don’t take 
+advantage of the vulnerabilities they find.
+3.Unauthorized hackers are also called unethical hackers. They are malicious threat actors who do not follow 
+or respect the law. Their goal is to collect and sell confidential data for financial gain.
